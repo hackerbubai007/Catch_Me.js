@@ -2,7 +2,7 @@
 
 This is a simple game where the user tries to catch a box that moves around the screen. The box moves in a random direction and the user must use the mouse to move their cursor and catch the box. 
 # HOSTED LINK:
-
+https://hackerbubai007.github.io/Catch_Me.js/index.html
 
 ## Code
 # HTML
